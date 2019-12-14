@@ -1,0 +1,9 @@
+# ninja log v5
+2	31	0	crypto/CMakeFiles/crypto_base.dir/cpu-intel.c.o	e9407323c3739e7f
+1	31	0	crypto/CMakeFiles/crypto_base.dir/cpu-aarch64-linux.c.o	74327aea93935373
+1	33	0	crypto/CMakeFiles/crypto_base.dir/cpu-aarch64-fuchsia.c.o	8b6be7ec26f6ebfe
+1	35	0	crypto/CMakeFiles/crypto_base.dir/cpu-arm.c.o	b332a7d053df7eeb
+2	35	0	crypto/CMakeFiles/crypto_base.dir/cpu-ppc64le.c.o	12a7b8bc236f4dcf
+2	46	0	crypto/CMakeFiles/crypto_base.dir/crypto.c.o	9387d52b88b77990
+2	66	0	crypto/CMakeFiles/crypto_base.dir/ex_data.c.o	5dd7764c893df649
+2	90	0	crypto/CMakeFiles/crypto_base.dir/cpu-arm-linux.c.o	7f19531b2724fbe4
